@@ -43,7 +43,7 @@
     <div class="container d-flex justify-content-between align-items-center">
 
       <div class="logo">
-        <h1 class="text-light"><a href="<?php echo base_url(); ?>index.html"><span>Moderna</span></a></h1>
+        <h1 class="text-light"><a href="<?php echo base_url(); ?>index.html"><span>TICO</span></a></h1>
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <a href="<?php echo base_url(); ?>index.html"><img src="<?php echo base_url(); ?>assets/img/logo.png" alt="" class="img-fluid"></a>-->
       </div>
